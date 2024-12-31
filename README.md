@@ -11,7 +11,7 @@ Your objective is to classify AI-generated images from real ones. We've provided
 **Sub-Task 2**: _Custom GAN Training_  
 In this task, you are required to pick a dataset of your choice from the internet and train your own GAN (Generative Adversarial Network) model to generate images. Showcase your creativity and technical skills!
 
-**Sub-Task 3**: _Design Your Own Xmas GAN_  
+**Sub-Task 3**: _Design Your Own X-mas GAN_  
 Get into the holiday spirit by designing your very own Christmas-themed GAN. Let your model generate festive and unique outputs.
 
 Detailed descriptions for each sub-task are provided in their respective folders. Good luck, and have fun exploring these challenges!
